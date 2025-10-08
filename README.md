@@ -1,4 +1,4 @@
-[![Social banner for abdo yaser](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://github.com/AbdelrahmanYasser3)
+[![Social banner for abdo yaser](![(https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/AbdelrahmanYasser3)
 
 <h1 align="center">Hey there 👋, I'm Abdelrahman (Abdo)</h1>
 
