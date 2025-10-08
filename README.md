@@ -1,4 +1,4 @@
-[![Social banner for abdo yaser](![(https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)](https://github.com/AbdelrahmanYasser3)
+[![Social banner for abdo yaser](![(https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif))](https://github.com/AbdelrahmanYasser3)
 
 <h1 align="center">Hey there 👋, I'm Abdelrahman (Abdo)</h1>
 
@@ -18,7 +18,6 @@ A passionate <b>Frontend Developer</b> building modern, responsive, and high-per
 
 ---
 
-![](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 ### 👨‍💻 About Me
 
