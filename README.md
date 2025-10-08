@@ -1,4 +1,4 @@
-[![Social banner for abdo yaser](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://github.com/abdo-yaser)
+[![Social banner for abdo yaser](https://github.com/jh3y/jh3y/raw/master/assets/header-banner--optimized.svg)](https://github.com/AbdelrahmanYasser3)
 
 <h1 align="center">Hey there 👋, I'm Abdelrahman (Abdo)</h1>
 
@@ -12,9 +12,8 @@ A passionate <b>Frontend Developer</b> building modern, responsive, and high-per
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/abdo-yaser" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/></a>&nbsp;
-<a href="https://github.com/abdo-yaser" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30"/></a>&nbsp;
-<a href="https://twitter.com/abdo_yaser" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" alt="Twitter" height="30" width="30"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/abdelrahman-yasser-b975722a4/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="LinkedIn" height="30" width="30"/></a>&nbsp;
+<a href="https://github.com/AbdelrahmanYasser3" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="GitHub" height="30" width="30"/></a>&nbsp;
 </p>
 
 ---
@@ -53,7 +52,7 @@ A passionate <b>Frontend Developer</b> building modern, responsive, and high-per
 
 ### 📊 GitHub Stats
 
-![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdo-yaser&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
+![Abdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdelrahmanYasser3&show_icons=true&theme=radical&hide=issues&count_private=true&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdo-yaser&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abdo-yaser&theme=radical)](https://git.io/streak-stats)
 
