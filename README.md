@@ -8,7 +8,7 @@ A passionate <b>Frontend Developer</b> building modern, responsive, and high-per
 
 <p align="center">
 💼 Open to collaborations on Angular or Frontend projects <br>
-📫 Reach me at <b>abdo.yaser.dev@gmail.com</b> or connect via:
+📫 Reach me at <b>yabdelrahman464@gmail.com</b> or connect via:
 </p>
 
 <p align="center">
